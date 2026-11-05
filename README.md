@@ -5,7 +5,7 @@ A modern, stylish Pomodoro timer built with plain HTML, CSS and JavaScript. No f
 | Light theme | Dark theme |
 | :---: | :---: |
 | ![Light theme](pomodoro-light.png) | ![Dark theme](pomodoro-dark.png) |
-
+![Project Screenshot](pomodoro-dark.png)
 ## Features
 
 - **Three modes:** Focus (25 min), Short break (5 min) and Long break (15 min)
