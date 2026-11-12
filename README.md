@@ -4,7 +4,7 @@ A modern, stylish Pomodoro timer built with plain HTML, CSS and JavaScript. No f
 
 | Light theme | Dark theme |
 | :---: | :---: |
-| ![Light theme](Screenshots/pomodoro-light.png) | ![Dark theme](Screenshots/pomodoro-dark.png) |
+| ![Light theme](pomodoro-light.png) | ![Dark theme](/pomodoro-dark.png) |
 
 ## Features
 
